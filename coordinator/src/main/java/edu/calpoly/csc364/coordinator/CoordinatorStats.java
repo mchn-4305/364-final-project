@@ -1,3 +1,4 @@
+//Micah Chen & Archie Phyo
 package edu.calpoly.csc364.coordinator;
 
 import java.util.concurrent.atomic.AtomicLong;

@@ -1,3 +1,4 @@
+//Micah Chen & Archie Phyo
 package edu.calpoly.csc364.coordinator;
 
 import edu.calpoly.csc364.common.Operation;

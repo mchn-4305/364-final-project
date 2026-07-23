@@ -1,3 +1,4 @@
+//Micah Chen & Archie Phyo
 package edu.calpoly.csc364.common;
 
 import com.google.gson.Gson;
